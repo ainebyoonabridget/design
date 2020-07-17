@@ -110,7 +110,9 @@ li{
 .icon a{
     font-size:50px;
     margin:0 auto;
-    margin:100px;
+    margin:-50px;
+    margin-left:280px;
+    align-items: center;
     padding:10px;
     margin-bottom:220px;
     padding-bottom: 10px;
@@ -120,10 +122,10 @@ text-align:center;
 margin-bottom:20rem;
 }
 .section-heading h1{
-    font-size:4rem;
+    font-size:5rem;
     color: rgba(255,255,255,.3);
     text-transform:uppercase;
-    font-weight:300;
+    font-weight:600px;
     position:relative;
      margin-bottom:-0.05rem;
     padding-bottom: 1px;
@@ -138,7 +140,7 @@ margin-bottom:20rem;
 }
 .phot{
     font-size:3rem;
-    color:blue;
+    color:rgba(255,255,255,.3);
     margin-top:-220px;
     text-transform:uppercase;
 }
